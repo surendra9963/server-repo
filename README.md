@@ -1,1 +1,1 @@
-# server-repo
+# jaanu-aws
